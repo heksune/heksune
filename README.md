@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Boş vakitlerimde yazılım alanında kendimi geliştirmekteyim. Video izleyip öğrenmektense küçük projeler yapıp kendi kendine gelişenlerdenim.</p>
+<p align="left"></p>
 
 ###
 
@@ -113,6 +113,3 @@
 </div>
 
 ###
-
-   <img width="25%" src="https://komarev.com/ghpvc/?username=h3kdev&color=070000">
-
