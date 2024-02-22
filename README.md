@@ -1,23 +1,3 @@
-<h2 align="left">Merhaba ben h3k,</h2>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/h.emrekeskinn" target="">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/1120828152969691267" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://twitch.tv/h3kdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  </a>
-</div>
-
 ###
 
 <h2 align="left">Kullandığım Teknolojiler</h2>
