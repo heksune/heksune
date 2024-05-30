@@ -1,61 +1,24 @@
-<h3 align="left">Languages</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-</div>
+<h1>Hi <img width="35" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png" />, I'm hek.</h1>
 
-###
+<h2><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/blue-book_1f4d8.png" /> About</h2>
 
-<h3 align="left">Markups Languages</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
-  <img width="12" />
-</div>
+- My name is Emre, I'm 17 years old, and I live in Turkey. I have been interested in software development for 3 years as a self-taught developer.
 
-###
+<h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/laptop_1f4bb.png" /> Technologies I use</h2>
 
-<h3 align="left">Frameworks</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-</div>
 
-###
+<img src="https://skillicons.dev/icons?i=javascript,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,webpack,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,replit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma,ps,ae&theme=dark" />
 
-<h3 align="left">Databases</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-</div>
 
-###
 
-<h3 align="left">Services</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-</div>
+<h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/trophy_1f3c6.png" /> GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=heksune&theme=darkhub&no-frame=true" />
 
-###
-
-<h3 align="left">Other</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-</div>
+<h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/crystal-ball_1f52e.png" /> Stats</h2>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=heksune&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=heksune&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
