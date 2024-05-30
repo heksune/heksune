@@ -9,8 +9,6 @@
   <img width="10" />
 </div>
 
-###
-
 <h3 align="left">Markups Languages</h3>
 
 ###
