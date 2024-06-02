@@ -1,8 +1,4 @@
-<h1>Hi <img width="35" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png" />, I'm hek.</h1>
 
-<h2><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/blue-book_1f4d8.png" /> About</h2>
-
-- My name is Emre, I'm 17 years old, and I live in Turkey. I have been interested in software development for 3 years as a self-taught developer.
 
 <h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/laptop_1f4bb.png" /> Technologies I use</h2>
 
