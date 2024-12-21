@@ -1,4 +1,5 @@
-
+<h2 width="100%">👋 Hi, hek is here!</h2>
+<p width="100%">17 y.o self-taught developer. Interested in web development. </p>
 
 <h2 width="100%"><img width="25" src="https://em-content.zobj.net/thumbs/72/apple/354/laptop_1f4bb.png" /> Technologies I use</h2>
 
